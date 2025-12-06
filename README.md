@@ -1,7 +1,6 @@
 ## **EX.NO:3.EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP**
             
 **DATE:06/09/205** 
-**SLOT-5M1-1**
 
 3A.INTEGRATOR
 ---
@@ -37,7 +36,7 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="905" height="449" alt="image" src="https://github.com/user-attachments/assets/ba62d610-04e5-463a-8a37-9a830f1108cb" />
+![WhatsApp Image 2025-12-06 at 13 06 28_4c70c440](https://github.com/user-attachments/assets/ef29b17c-a18d-4b23-a8cc-0b5e6502ef1e)
 
 
 ## MODEL GRAPH
@@ -62,14 +61,14 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea2cb04e-4a65-4b73-b4ce-8fb3bef4252e" />
+![WhatsApp Image 2025-12-06 at 13 06 28_4c70c440](https://github.com/user-attachments/assets/33703e59-2624-4e31-8a17-ef530c9face6)
 
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/93769ca4-5c3b-49a2-9170-b8a979ce00fa" />
+![WhatsApp Image 2025-12-06 at 13 06 32_fe4f0411](https://github.com/user-attachments/assets/d7ef9705-feb7-4cc4-89f4-83a25242e0b6)
 
 
 ---
@@ -109,7 +108,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="538" height="361" alt="image" src="https://github.com/user-attachments/assets/17696bd2-69a9-4268-871f-8d0289dcac61" />
+![WhatsApp Image 2025-12-06 at 13 06 20_0e684c32](https://github.com/user-attachments/assets/da7f5abe-5db1-41a3-9981-39cbaa8a42b9)
 
 
 
@@ -151,12 +150,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7e798c62-3164-42ab-adac-ce64b2b508f7" />
+![WhatsApp Image 2025-12-06 at 13 06 24_1224cc56](https://github.com/user-attachments/assets/c403add4-d042-48a4-b9c0-fb09d6ceb51f)
 
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/768b0d24-6bca-4f0a-9ad9-997fad5cabcb" />
+![WhatsApp Image 2025-12-06 at 13 06 32_37835f37](https://github.com/user-attachments/assets/3deb182b-30b2-443a-83dc-e345a3c543b8)
 
 ---
 
