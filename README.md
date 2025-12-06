@@ -1,8 +1,9 @@
-3. ##**EX.NO:
-** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
+## **EX.NO:3.EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP**
             
-**DATE:**  
-             3A INTEGRATOR
+**DATE:06/09/205** 
+**SLOT-5M1-1**
+
+3A.INTEGRATOR
 ---
 
 ## AIM
@@ -36,7 +37,7 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+<img width="905" height="449" alt="image" src="https://github.com/user-attachments/assets/ba62d610-04e5-463a-8a37-9a830f1108cb" />
 
 
 ## MODEL GRAPH
@@ -61,20 +62,19 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea2cb04e-4a65-4b73-b4ce-8fb3bef4252e" />
+
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/93769ca4-5c3b-49a2-9170-b8a979ce00fa" />
 
 
 ---
-**DATE:**  
-             3 B DIFFERENTIATOR
+**DATE:13/09/2025**  
+3B.DIFFERENTIATOR
 ---
 
 ## AIM
@@ -109,7 +109,8 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
+<img width="538" height="361" alt="image" src="https://github.com/user-attachments/assets/17696bd2-69a9-4268-871f-8d0289dcac61" />
+
 
 
 
@@ -118,6 +119,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 (i)	 SINE WAVE INPUT
 
 <img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
+
 ---
 
 AND
@@ -149,13 +151,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7e798c62-3164-42ab-adac-ce64b2b508f7" />
+
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/768b0d24-6bca-4f0a-9ad9-997fad5cabcb" />
 
 ---
 
